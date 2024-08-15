@@ -10,7 +10,7 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 
 <br>
-<a href="https://leetcode.com/ananth_s12704">
+<a href="https://leetcode.com/Ajai_11/">
     <img src="https://leetcard.jacoblin.cool/Ajai_11?theme=light&font=Alike&ext=heatmap"></img>
 <a>
 
